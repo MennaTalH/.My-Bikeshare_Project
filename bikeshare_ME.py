@@ -2,13 +2,13 @@ import time
 import pandas as pd
 import numpy as np
 
-CITY_DATA = { 'chicago': 'chicago.csv',
-              'new york city': 'new_york_city.csv',
-              'washington': 'washington.csv' }
+CITY_DATA = { 'CHICAGO': 'chicago.csv',
+              'NEW YORK CITY ': 'new_york_city.csv',
+              'WASHINGTON ': 'washington.csv' }
 
-MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
-WEEKDAYS = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday']
-
+MONTHS = ['JANUARY ', 'FEBRUARY ', 'MARCH ', 'APRIL', 'MAY', 'JANE']
+WEEKDAYS = ['MONDAY', ' TUESDAY', 'WEDNESDAY', 'THURSDAY', ' FRIDAY', 'SATURDAY', 'SUNDAY']
+  
 
 LINE_LEN = 90
 
