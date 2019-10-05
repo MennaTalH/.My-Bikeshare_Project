@@ -14,6 +14,7 @@ Bikeshare.py
 washington.csv 
 new_york_city.csv
 chicago.csv
+.gitignore 
 
 ## Contents Of Data Sets :- 
 Start Time 
@@ -30,4 +31,5 @@ In addition to all of the above, there are two additional columns in New York an
 ## Software used :-
 Python 3.7
 Visual Studio Code  (Text editor)
+
  
