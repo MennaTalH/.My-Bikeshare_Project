@@ -49,7 +49,7 @@ def get_filter_month():
    
     while True:
         try:
-            month = input("   PLEASE ENTER THE MONTH WHITH     January=1, June=6 or 'a' for all:-  ")
+            month = input("  \n  PLEASE ENTER THE MONTH WHITH   JANUARY =1, JUNE=6 or 'a' for all:-  ")
         except:
             print("        ---->>  Valid input:  1 - 6, a")
             continue
@@ -71,7 +71,7 @@ def get_filter_day():
     
     while True:
         try:
-            day = input("  PLEASE ENTER  THE DAY WITH Monday=1, Sunday=7 or 'a' for all:  ")
+            day = input("  PLEASE ENTER  THE DAY WITH  MONDAY=1, SUNDAY=7 or 'a' for all:  ")
         except:
             print("        ---->>  Valid input:  1 - 7, a")
             continue
@@ -92,7 +92,7 @@ def get_filter_day():
 def get_filters():
   
     print_line('=')
-    print('\n  Hello! Let\'s explore US bikeshare data!\n')
+    print('\n  Hello! Let\'s EXPLORE  US BIKESHARE BIKESHARE DATA!\n')
     
     city = get_filter_city()
 
