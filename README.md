@@ -1,25 +1,13 @@
 ### Date created :-
 04.10.2019
 
-### Project Title :-
+# Project Title :-
 Bikeshare project 
 
-<<<<<<< HEAD
-### Description
- Python script
-reads data from .csv files for either Washington, New York city or Chicago. Using interactive interface a user
-can choose the city and define some other parametrs to extract statistical information from the data.
-||||||| merged common ancestors
-### Description
-Bikeshare project was developed for Programming for Data Scince class at Udacity university. Python script
-reads data from .csv files for either Washington, New York city or Chicago. Using interactive interface a user
-can choose the city and define some other parametrs to extract statistical information from the data.
-=======
-### Description :-
+## Description :-
 Bikeshare project :-
  Python script reads data from .csv files for either Washington, New York city or Chicago.
  Using interactive interface a user can choose the city and define some other parametrs to extract statistical information from the data.
->>>>>>> documentation
 
 ### Files used :-
 Bikeshare.py
@@ -28,8 +16,7 @@ new_york_city.csv
 chicago.csv
 .gitignore 
 
-<<<<<<< HEAD
-# Questions about the project 
+#### Questions about the project 
 This code was written to answer some questions :-
 
 - What month occurs most often in the start time?
@@ -39,9 +26,8 @@ This code was written to answer some questions :-
 - What is the most common trip ?
 - What are the counts of each user type?
 - What are the counts of gender? 
-||||||| merged common ancestors
-=======
-## Contents Of Data Sets :- 
+
+#####Contents Of Data Sets :- 
 Start Time 
 End Time 
 Trip Duration 
@@ -53,7 +39,7 @@ In addition to all of the above, there are two additional columns in New York an
  Gender
  Birth Year
 
-## Software used :-
+###### Software used :-
 Python 3.7
 Visual Studio Code  (Text editor)
 
